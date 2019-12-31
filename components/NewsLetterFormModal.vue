@@ -1,10 +1,13 @@
 <template>
+
     <news-letter-form />
+  </modal-overlay>
 </template>
 <script>
+import ModalOverlay from '~/components/ModalOverlay'
 import NewsLetterForm from '~/components/NewsLetterForm'
 export default {
-  components: { NewsLetterForm },
+  components: { ModalOverlay, NewsLetterForm },
   computed: {
     title() {
       return (
