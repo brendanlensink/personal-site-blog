@@ -9,18 +9,40 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Brendan Lensink',
-  tagline: 'Blog blog blog blog',
+  siteName: 'Awake',
+  tagline: 'A Nuxt.js Theme for Netlify CMS',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: false,
+    on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
+    {
+      name: 'About',
+      link: '/about'
+    },
+    {
+      name: 'Contact',
+      link: '/contact'
+    },
+    {
+      name: 'Categories',
+      link: '/categories'
+    },
+    {
+      name: 'Github Repo',
+      link: 'https://github.com/danielkellyio/awake-template',
+      target: '_blank'
+    },
+    {
+      name: 'Awake+ Premium',
+      link: 'https://awake-premium-lp.netlify.com/',
+      target: '_blank'
+    }
   ],
   hero: {
-    theme: 'mist' // options: mist, light, dark
+    theme: 'dark' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -37,14 +59,14 @@ export default {
 
   // Disqus
   disqus: {
-    on: false,
+    on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
-    on: false,
+    on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
@@ -62,7 +84,7 @@ export default {
 
   // Categories
   categories: {
-    on: false,
+    on: true,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
