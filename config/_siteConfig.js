@@ -18,10 +18,6 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    {
-      name: 'About',
-      link: '/about'
-    }
   ],
   hero: {
     theme: 'mist' // options: mist, light, dark
