@@ -25,7 +25,7 @@ export default {
 
   // Main Layout/Style
   layout: {
-    width: 'contained', // Options: contained, full
+    width: 'full', // Options: contained, full
     theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
   },
 
