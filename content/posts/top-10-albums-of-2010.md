@@ -11,13 +11,17 @@ featureImage: /uploads/charli.png
 
 This year, I kept a playlist with my favourite song from each new album I listened to. You can check that out [here](https://open.spotify.com/playlist/0XfPLFfzwdwPPBsohYlkOC?si=nux1RUVZT-GWIsldSkVdKA).
 
-Honorable Mentions:
+### Honorable Mentions:
 
 7 Rings - Ariana Grande
 
 100 gecs - 1000 gecs
 
 Basking in the Glow - Oso Oso
+
+
+
+
 
 ![](/uploads/arielview.png)
 
