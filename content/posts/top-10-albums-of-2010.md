@@ -9,9 +9,9 @@ featureImage: /uploads/charli.png
 ---
 Honorable Mentions:
 
-7 Rings - Ariana Grande, 
+7 Rings - Ariana Grande
 
-100 gecs - 1000 gecs,
+100 gecs - 1000 gecs
 
 Basking in the Glow - Oso Oso
 
