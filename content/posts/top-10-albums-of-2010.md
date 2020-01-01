@@ -19,10 +19,6 @@ This year, I kept a playlist with my favourite song from each new album I listen
 
 Basking in the Glow - Oso Oso
 
-
-
-
-
 ![](/uploads/arielview.png)
 
 ## 10. Ariel View - Until My Lungs Are Cleared
