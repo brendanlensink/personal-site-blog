@@ -21,8 +21,7 @@ Song Machine, Season One: Strange Timez - Gorillaz
 
 Charm and Mirror - Kitty
 
-
-![High Risk Behaviour - The Chats](/uploads/2020_chats.jpg)
+<img src="/uploads/2020_chats.jpg" width="300px">
 
 ## 10. High Risk Behaviour - The Chats
 
