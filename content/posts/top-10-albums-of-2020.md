@@ -21,94 +21,90 @@ Song Machine, Season One: Strange Timez - Gorillaz
 
 Charm and Mirror - Kitty
 
-
-### The List
-
+<img src="/uploads/2020_chats.jpg" width="300px">
 
 ## 10. High Risk Behaviour - The Chats
-
-![High Risk Behaviour - The Chats](/uploads/2020_chats.jpg)
 
 * [Listen](https://www.youtube.com/watch?v=1LGM82uPuvA)
 
 The album is quite short, and a lot of the songs on it have been floating around for a while but these guys rip. Some days all you need is some unapologetically simple and honest punk.
 
 
-## 9. Ultra Mono - IDLES
-
 ![Ultra Mono - IDLES](/uploads/2020_idles.jpg)
+
+## 9. Ultra Mono - IDLES
 
 * [Listen](https://www.youtube.com/watch?v=BLcM3fq6Quk)
 
 Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tracks. If you missed their [2019 Tiny Desk Concert](https://www.youtube.com/watch?v=wMehItNQKAA), it certainly is... something. It's hard not to get caught up in the energy and raw feeling in this album.
 
 
-## 8. Punisher - Phoebe Bridgers
+![Punisher - Phoebe Bridgers](/uploads/2020_phoebe.png)
 
-![Punisher - Phoebe Bridgers](/uploads/2020_phoebe.webp)
+## 8. Punisher - Phoebe Bridgers
 
 * [Listen](https://www.youtube.com/watch?v=Tw0zYd0eIlk)
 
 Sad girls and guitars was definitely a mood in 2020, even more so than normal.
 
 
-## 7. SAWAYAMA - Rina Sawayama
+![SAWAYAMA - Rina Sawayama](/uploads/2020_rina.jpg)
 
-![SAWAYAMA - Rina Sawayama](/uploads/2020_rina.webp)
+## 7. SAWAYAMA - Rina Sawayama
 
 * [Listen](https://www.youtube.com/watch?v=OLXtc2OSrLQ)
 
 Rina continues to be one of my favourite pop singer/songwriters around. She's able to blend influences from all sorts of genres and produce some fantastic tunes.
 
 
-## 6. Women in Music Part 3 - HAIM
+![Women in Music Part 3 - HAIM](/uploads/2020_haim.png)
 
-![Women in Music Part 3 - HAIM](/uploads/2020_haim.webp)
+## 6. Women in Music Part 3 - HAIM
 
 * [Listen](https://youtu.be/crZvtA9I4lY)
 
 The ladies of HAIM are incredibly talented,
 
 
-## 5. Forever Live Sessions - Men I Trust
-
 ![Forever Live Sessions - Men I Trust](/uploads/2020_mit.jpg)
+
+## 5. Forever Live Sessions - Men I Trust
 
 * [Listen](https://youtu.be/wCm17ul0ukc)
 
 Maybe this is kind of cheating, since this is technically a re-release of older songs, but holy moly is the album great. Another entry in the sad girls and guitars category, this time with some really catchy jazzy instruments accompanying.
 
 
-## 4. WOMB - Purity Ring
+![WOMB - Purity Ring](/uploads/2020_purity.png)
 
-![WOMB - Purity Ring](/uploads/2020_purity.jpg)
+## 4. WOMB - Purity Ring
 
 * [Listen](https://www.youtube.com/watch?v=rlpb0kBiDjA)
 
 It's a real testament to how much good music there was this year that my favourite band of all time, Purity Ring, is all the way down at number 4. Stardew might be one of my favourite Purity Ring tracks of all time, but this album is held back a little by some less than great songs.
 
 
-## 3. Folklore/Evermore - Taylor Swift
+![Folklore/Evermore - Taylor Swift](/uploads/2020_taylor.png)
 
-![Folklore/Evermore - Taylor Swift](/uploads/2020_taylor.jpg)
+## 3. Folklore/Evermore - Taylor Swift
 
 * [Listen](https://youtu.be/osdoLjUNFnA)
 
 I'm breaking all the rules this year and also including these two 'sister' albums together in one spot. Exile, with Bon Iver, and no body, no crime are easily in my top 5 Taylor songs ever and both of these albums is jam packed with other great songs. These albums were a pretty big shift from Lover/Reputation sonically and I couldn't be happier with it.
 
 
-## 2. how i'm feeling now - Charli XCX
-
 ![how i'm feeling now - Charli XCX](/uploads/2020_charli.png)
+
+## 2. how i'm feeling now - Charli XCX
 
 * [Listen](https://youtu.be/TbJE-KVZvTA)
 
 This album is a little rougher around the edges than Charli, but I almost think it's a good thing for the album. Written and recorded exclusively in quarantine this year, I think the album best captures that feeling for me.
 
 
-## 1. Circles - Mac Miller
+![Circles - Mac Miller](/uploads/2020_mac.png)
 
-![Circles - Mac Miller](/uploads/2020_mac.jpg)
+## 1. Circles - Mac Miller
 
 * [Listen](https://youtu.be/aIHF7u9Wwiw)
 
