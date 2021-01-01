@@ -21,6 +21,8 @@ Song Machine, Season One: Strange Timez - Gorillaz
 
 Charm and Mirror - Kitty
 
+<br/>
+
 ### The List
 
 ![High Risk Behaviour - The Chats](/uploads/2020_chats.jpg)
@@ -31,8 +33,8 @@ Charm and Mirror - Kitty
 
 The album is quite short, and a lot of the songs on it have been floating around for a while but these guys rip. Some days all you need is some unapologetically simple and honest punk.
 
-
-
+<br/>
+<br/>
 
 ![Ultra Mono - IDLES](/uploads/2020_idles.jpg)
 
@@ -42,8 +44,8 @@ The album is quite short, and a lot of the songs on it have been floating around
 
 Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tracks. If you missed their [2019 Tiny Desk Concert](https://www.youtube.com/watch?v=wMehItNQKAA), it certainly is... something. It's hard not to get caught up in the energy and raw feeling in this album.
 
-
-
+<br/>
+<br/>
 
 
 ![Punisher - Phoebe Bridgers](/uploads/2020_phoebe.png)
@@ -54,8 +56,8 @@ Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tr
 
 Sad girls and guitars was definitely a mood in 2020, even more so than normal.
 
-
-
+<br/>
+<br/>
 
 
 ![SAWAYAMA - Rina Sawayama](/uploads/2020_rina.jpg)
@@ -66,9 +68,8 @@ Sad girls and guitars was definitely a mood in 2020, even more so than normal.
 
 Rina continues to be one of my favourite pop singer/songwriters around. She's able to blend influences from all sorts of genres and produce some fantastic tunes.
 
-
-
-
+<br/>
+<br/>
 
 ![Women in Music Part 3 - HAIM](/uploads/2020_haim.png)
 
@@ -78,9 +79,8 @@ Rina continues to be one of my favourite pop singer/songwriters around. She's ab
 
 The ladies of HAIM are incredibly talented, including showing up on some of my favourite tracks in the last couple years with the likes of Taylor Swift, Vampire Weekend and Charlithis album is full of great songs.
 
-
-
-
+<br/>
+<br/>
 
 ![Forever Live Sessions - Men I Trust](/uploads/2020_mit.jpg)
 
@@ -90,9 +90,8 @@ The ladies of HAIM are incredibly talented, including showing up on some of my f
 
 Maybe this is kind of cheating, since this is technically a re-release of older songs, but holy moly is the album great. Another entry in the sad girls and guitars category, this time with some really catchy jazzy instruments accompanying.
 
-
-
-
+<br/>
+<br/>
 
 ![WOMB - Purity Ring](/uploads/2020_purity.png)
 
@@ -102,9 +101,8 @@ Maybe this is kind of cheating, since this is technically a re-release of older 
 
 It's a real testament to how much good music there was this year that my favourite band of all time, Purity Ring, is all the way down at number 4. Stardew might be one of my favourite Purity Ring tracks of all time, but this album is held back a little by some less than great songs.
 
-
-
-
+<br/>
+<br/>
 
 ![Folklore/Evermore - Taylor Swift](/uploads/2020_taylor.png)
 
@@ -114,9 +112,8 @@ It's a real testament to how much good music there was this year that my favouri
 
 I'm breaking all the rules this year and also including these two 'sister' albums together in one spot. Exile, with Bon Iver, and no body, no crime are easily in my top 5 Taylor songs ever and both of these albums is jam packed with other great songs. These albums were a pretty big shift from Lover/Reputation sonically and I couldn't be happier with it.
 
-
-
-
+<br/>
+<br/>
 
 ![how i'm feeling now - Charli XCX](/uploads/2020_charli.png)
 
@@ -126,9 +123,8 @@ I'm breaking all the rules this year and also including these two 'sister' album
 
 This album is a little rougher around the edges than Charli, but I almost think it's a good thing for the album. Written and recorded exclusively in quarantine this year, I think the album best captures that feeling for me.
 
-
-
-
+<br/>
+<br/>
 
 ![Circles - Mac Miller](/uploads/2020_mac.png)
 
