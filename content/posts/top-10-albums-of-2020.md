@@ -5,7 +5,7 @@ category:
   - top10
 author: Brendan Lensink
 date: 2021-01-01T01:09:21.596Z
-featureImage: /uploads/2020_mac.png
+featureImage: /uploads/2020_mac.jpg
 ---
 
 I don't really know what to say about 2020 that hasn't already been said a million different ways, so I'm gonna keep things pretty short. I think this year will be extra interesting looking back in a couple years, since so much of my music listening habits were influenced by everything that was going on in my life and in the world around me.
