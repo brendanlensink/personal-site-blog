@@ -1,5 +1,5 @@
 ---
-title: Top 10 Albums of 2019
+title: Top 10 Albums of 2020
 subtitle: 'It''s just like, my opinion, man'
 category:
   - top10
