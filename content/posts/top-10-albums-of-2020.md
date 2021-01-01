@@ -19,9 +19,8 @@ Song Machine, Season One: Strange Timez - Gorillaz
 
 1000 gecs and The Tree of Clues - 100 gecs
 
-Charm and Mirror - Kitty
+Charm and Mirror - Kitty  
 
-<br>
 
 ### The List
 
@@ -31,10 +30,8 @@ Charm and Mirror - Kitty
 
 * [Listen](https://www.youtube.com/watch?v=1LGM82uPuvA)
 
-The album is quite short, and a lot of the songs on it have been floating around for a while but these guys rip. Some days all you need is some unapologetically simple and honest punk.
-
-<br>
-<br>
+The album is quite short, and a lot of the songs on it have been floating around for a while but these guys rip. Some days all you need is some unapologetically simple and honest punk.  
+  
 
 ![Ultra Mono - IDLES](/uploads/2020_idles.jpg)
 
@@ -42,11 +39,8 @@ The album is quite short, and a lot of the songs on it have been floating around
 
 * [Listen](https://www.youtube.com/watch?v=BLcM3fq6Quk)
 
-Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tracks. If you missed their [2019 Tiny Desk Concert](https://www.youtube.com/watch?v=wMehItNQKAA), it certainly is... something. It's hard not to get caught up in the energy and raw feeling in this album.
-
-<br>
-<br>
-
+Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tracks. If you missed their [2019 Tiny Desk Concert](https://www.youtube.com/watch?v=wMehItNQKAA), it certainly is... something. It's hard not to get caught up in the energy and raw feeling in this album. 
+  
 
 ![Punisher - Phoebe Bridgers](/uploads/2020_phoebe.png)
 
@@ -54,10 +48,8 @@ Sort of in the same vein, IDLES returns with some more hard-hitting, eclectic tr
 
 * [Listen](https://www.youtube.com/watch?v=Tw0zYd0eIlk)
 
-Sad girls and guitars was definitely a mood in 2020, even more so than normal.
-
-<br>
-<br>
+Sad girls and guitars was definitely a mood in 2020, even more so than normal. 
+  
 
 ![SAWAYAMA - Rina Sawayama](/uploads/2020_rina.jpg)
 
@@ -65,10 +57,8 @@ Sad girls and guitars was definitely a mood in 2020, even more so than normal.
 
 * [Listen](https://www.youtube.com/watch?v=OLXtc2OSrLQ)
 
-Rina continues to be one of my favourite pop singer/songwriters around. She's able to blend influences from all sorts of genres and produce some fantastic tunes.
-
-<br>
-<br>
+Rina continues to be one of my favourite pop singer/songwriters around. She's able to blend influences from all sorts of genres and produce some fantastic tunes.  
+  
 
 ![Women in Music Part 3 - HAIM](/uploads/2020_haim.png)
 
@@ -76,10 +66,8 @@ Rina continues to be one of my favourite pop singer/songwriters around. She's ab
 
 * [Listen](https://youtu.be/crZvtA9I4lY)
 
-The ladies of HAIM are incredibly talented, including showing up on some of my favourite tracks in the last couple years with the likes of Taylor Swift, Vampire Weekend and Charlithis album is full of great songs.
-
-<br>
-<br>
+The ladies of HAIM are incredibly talented, including showing up on some of my favourite tracks in the last couple years with the likes of Taylor Swift, Vampire Weekend and Charli this album is full of great songs.  
+  
 
 ![Forever Live Sessions - Men I Trust](/uploads/2020_mit.jpg)
 
@@ -87,10 +75,8 @@ The ladies of HAIM are incredibly talented, including showing up on some of my f
 
 * [Listen](https://youtu.be/wCm17ul0ukc)
 
-Maybe this is kind of cheating, since this is technically a re-release of older songs, but holy moly is the album great. Another entry in the sad girls and guitars category, this time with some really catchy jazzy instruments accompanying.
-
-<br>
-<br>
+Maybe this is kind of cheating, since this is technically a re-release of older songs, but holy moly is the album great. Another entry in the sad girls and guitars category, this time with some really catchy jazzy instruments accompanying.  
+  
 
 ![WOMB - Purity Ring](/uploads/2020_purity.png)
 
@@ -98,10 +84,8 @@ Maybe this is kind of cheating, since this is technically a re-release of older 
 
 * [Listen](https://www.youtube.com/watch?v=rlpb0kBiDjA)
 
-It's a real testament to how much good music there was this year that my favourite band of all time, Purity Ring, is all the way down at number 4. Stardew might be one of my favourite Purity Ring tracks of all time, but this album is held back a little by some less than great songs.
-
-<br>
-<br>
+It's a real testament to how much good music there was this year that my favourite band of all time, Purity Ring, is all the way down at number 4. Stardew might be one of my favourite Purity Ring tracks of all time, but this album is held back a little by some less than great songs.  
+  
 
 ![Folklore/Evermore - Taylor Swift](/uploads/2020_taylor.png)
 
@@ -109,10 +93,8 @@ It's a real testament to how much good music there was this year that my favouri
 
 * [Listen](https://youtu.be/osdoLjUNFnA)
 
-I'm breaking all the rules this year and also including these two 'sister' albums together in one spot. Exile, with Bon Iver, and no body, no crime are easily in my top 5 Taylor songs ever and both of these albums is jam packed with other great songs. These albums were a pretty big shift from Lover/Reputation sonically and I couldn't be happier with it.
-
-<br>
-<br>
+I'm breaking all the rules this year and also including these two 'sister' albums together in one spot. Exile, with Bon Iver, and no body, no crime are easily in my top 5 Taylor songs ever and both of these albums is jam packed with other great songs. These albums were a pretty big shift from Lover/Reputation sonically and I couldn't be happier with it.  
+  
 
 ![how i'm feeling now - Charli XCX](/uploads/2020_charli.png)
 
@@ -120,10 +102,8 @@ I'm breaking all the rules this year and also including these two 'sister' album
 
 * [Listen](https://youtu.be/TbJE-KVZvTA)
 
-This album is a little rougher around the edges than Charli, but I almost think it's a good thing for the album. Written and recorded exclusively in quarantine this year, I think the album best captures that feeling for me.
-
-<br>
-<br>
+This album is a little rougher around the edges than Charli, but I almost think it's a good thing for the album. Written and recorded exclusively in quarantine this year, I think the album best captures that feeling for me.  
+  
 
 ![Circles - Mac Miller](/uploads/2020_mac.png)
 
@@ -131,8 +111,8 @@ This album is a little rougher around the edges than Charli, but I almost think 
 
 * [Listen](https://youtu.be/aIHF7u9Wwiw)
 
-Mac's passing was truly tragic, and it's incredible how well this album captures a lot of the feelings of 2020 even released posthumously. Mac's brand of hip hop was never really my thing, but this pivot to more soulful singing/product is 1000% my shit and I'm sure I'll be coming back to this album for many years.
-
+Mac's passing was truly tragic, and it's incredible how well this album captures a lot of the feelings of 2020 even released posthumously. Mac's brand of hip hop was never really my thing, but this pivot to more soulful singing/product is 1000% my shit and I'm sure I'll be coming back to this album for many years.  
+  
 
 
 
